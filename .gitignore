@@ -9,9 +9,7 @@
 *.index
 *.meta
 *.data-*
-checkpoint*/
 output/
-logs/
 ckpt/
 out/
 pre_weights/
